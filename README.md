@@ -1,7 +1,3 @@
-Here's the translation to English:
-
----
-
 # Testing Programming Language Speeds!
 
 Let's see practically which programming language is the best! In this repository, I conducted a test to determine which programming language would be the best. Remember, this repository is not to say which language is better than the other; programming languages are just tools.
